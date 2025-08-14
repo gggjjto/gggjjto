@@ -12,4 +12,4 @@ I enjoy building scalable systems and exploring cutting-edge technologies.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gggjjto&show_icons=true&theme=light)  ![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=gggjjto&layout=compact&theme=light)
+![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=gggjjto&layout=compact&theme=light)
