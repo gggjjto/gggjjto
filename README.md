@@ -12,6 +12,4 @@ I enjoy building scalable systems and exploring cutting-edge technologies.
 
 ## 📊 GitHub Stats
 
-![Jiang Peng's GitHub stats](https://github-readme-stats.vercel.app/api?username=gggjjto&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gggjjto&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gggjjto&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gggjjto&show_icons=true&theme=light)  ![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=gggjjto&layout=compact&theme=light)
