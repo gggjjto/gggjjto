@@ -76,7 +76,3 @@ For understanding real frontend integration needs and designing clearer API cont
 ## Current Direction
 
 I will keep focusing on **agent systems** and **FastAPI engineering**: building maintainable backends for tool use, memory, RAG, workflows, permissions, documentation, and tests.
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gggjjto&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-</p>
